@@ -4,7 +4,7 @@ VSCode extension to dim code outside the current block.
 
 ### Usage:
 
-* invoke from command panel. eg.  **`Toggle Twlight`**
+* invoke from command panel. eg.  **`Toggle ZenMode with twlight`**
 
 * use keybind, eg.
 
@@ -31,9 +31,9 @@ VSCode extension to dim code outside the current block.
 
 * #### use with zen mode 
 
-  command: **`Toggle Twlight`**
+  command: **`Toggle ZenMode with twlight`**
 
-  commandId: **`twlight.toggle`**
+  commandId: **`twlight.toggleZenMode`**
 
   > Recommend use this command to replace build in zen mode.
 
