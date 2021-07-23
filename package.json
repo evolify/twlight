@@ -2,7 +2,7 @@
   "name": "twlight",
   "displayName": "twlight",
   "description": "Dim code outside the current block",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "publisher": "evolify",
   "engines": {
     "vscode": "^1.58.0"
